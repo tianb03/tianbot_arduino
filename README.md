@@ -1,8 +1,6 @@
 Title         : ROS Arduino program for Tianbot trainee
 Author        : Tian Bo
 
-[TITLE]
-
 # tianbot_arduino
 
 Repos include many simple packages for ROS arduino education. 
